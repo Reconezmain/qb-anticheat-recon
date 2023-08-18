@@ -1,7 +1,7 @@
 Config = {}
 
 -- Set how many flags will result in a ban --
-Config.FlagsForBan = 5
+Config.FlagsForBan = 4
 
 -- Set values for flags --
 Config.SuperJumpLength = 20.0
@@ -11,7 +11,7 @@ Config.Antiresourcestop = true
 
 -- Set group --
 Config.IgnoredGroups = {
-    ['mod'] = true,
+    ['mod'] = false,
     ['admin'] = true,
     ['god'] = true
 }
@@ -19,6 +19,10 @@ Config.IgnoredGroups = {
 -- Blacklisted plates --
 Config.BlacklistedPlates = {
     "BRUTAN",
+    "NEGER",
+    "NIGGER",
+    "IDIOT",
+    "TXBOOST",
 }
 
 
