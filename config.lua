@@ -277,7 +277,6 @@ Config.BlacklistedEvents = {
     'NB:recruterplayer',
     'OG_cuffs:cuffCheckNearest',
     'OG_cuffs:cuffCheckNeDFWMarest',
-    'paramedic:revive',
     'paycheck:bonDFWMus',
     'paycheck:salary',
     'paycheck:salDFWMary',
