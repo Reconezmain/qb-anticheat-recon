@@ -23,6 +23,8 @@ Config.BlacklistedPlates = {
     "NIGGER",
     "IDIOT",
     "TXBOOST",
+    "HX",
+    "EULEN",
 }
 
 
